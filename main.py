@@ -139,8 +139,6 @@ for id in ids:
 # e json.dump() para guardar os dados atualizados dos clientes
 # se o arquivo já existir, ele será sobrescrito
 
-print(todos_os_usuarios[0].keys())
-input()
 try:
     with open('usuarios_updated.json', 'w', encoding='utf-8') as json_file:
         # deve-se usar a opção ensure_ascii=False para garantir que todos 
