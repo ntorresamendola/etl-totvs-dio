@@ -1,0 +1,355 @@
+[
+  {
+    "id": 2,
+    "name": "Pip",
+    "account": {
+      "id": 3,
+      "number": "01.097554-1",
+      "agency": "0207",
+      "balance": 10,
+      "limit": 200
+    },
+    "card": {
+      "id": 3,
+      "number": "xxxx xxxx xxxx 2222",
+      "limit": 2000
+    },
+    "features": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pix.svg",
+        "description": "PIX"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pay.svg",
+        "description": "Pagar"
+      },
+      {
+        "id": 3,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/transfer.svg",
+        "description": "Transferir"
+      },
+      {
+        "id": 4,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/account.svg",
+        "description": "Conta Corrente"
+      },
+      {
+        "id": 5,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/cards.svg",
+        "description": "Cartões"
+      }
+    ],
+    "news": []
+  },
+  {
+    "id": 3,
+    "name": "Pepe",
+    "account": {
+      "id": 4,
+      "number": "02.297568-9",
+      "agency": "1234",
+      "balance": 1000,
+      "limit": 3000
+    },
+    "card": {
+      "id": 4,
+      "number": "xxxx xxxx xxxx 4444",
+      "limit": 4000
+    },
+    "features": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pix.svg",
+        "description": "PIX"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pay.svg",
+        "description": "Pagar"
+      },
+      {
+        "id": 3,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/transfer.svg",
+        "description": "Transferir"
+      },
+      {
+        "id": 4,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/account.svg",
+        "description": "Conta Corrente"
+      },
+      {
+        "id": 5,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/cards.svg",
+        "description": "Cartões"
+      }
+    ],
+    "news": []
+  },
+
+  {
+    "id": 4,
+    "name": "Mateus",
+    "account": {
+      "id": 5,
+      "number": "44.197424-6",
+      "agency": "1111",
+      "balance": 300,
+      "limit": 2000
+    },
+    "card": {
+      "id": 5,
+      "number": "xxxx xxxx xxxx 5555",
+      "limit": 2000
+    },
+    "features": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pix.svg",
+        "description": "PIX"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pay.svg",
+        "description": "Pagar"
+      },
+      {
+        "id": 3,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/transfer.svg",
+        "description": "Transferir"
+      },
+      {
+        "id": 4,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/account.svg",
+        "description": "Conta Corrente"
+      },
+      {
+        "id": 5,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/cards.svg",
+        "description": "Cartões"
+      }
+    ],
+    "news": []
+  },
+  {
+    "id": 5,
+    "name": "Ágatha",
+    "account": {
+      "id": 6,
+      "number": "77.191424-6",
+      "agency": "0002",
+      "balance": 3000,
+      "limit": 10000
+    },
+    "card": {
+      "id": 6,
+      "number": "xxxx xxxx xxxx 7777",
+      "limit": 10000
+    },
+    "features": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pix.svg",
+        "description": "PIX"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pay.svg",
+        "description": "Pagar"
+      },
+      {
+        "id": 3,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/transfer.svg",
+        "description": "Transferir"
+      },
+      {
+        "id": 4,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/account.svg",
+        "description": "Conta Corrente"
+      },
+      {
+        "id": 5,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/cards.svg",
+        "description": "Cartões"
+      }
+    ],
+    "news": []
+  },
+  {
+    "id": 6,
+    "name": "Vinicius",
+    "account": {
+      "id": 7,
+      "number": "88.121424-8",
+      "agency": "0008",
+      "balance": 300,
+      "limit": 1000
+    },
+    "card": {
+      "id": 7,
+      "number": "xxxx xxxx xxxx 8888",
+      "limit": 10000
+    },
+    "features": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pix.svg",
+        "description": "PIX"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pay.svg",
+        "description": "Pagar"
+      },
+      {
+        "id": 3,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/transfer.svg",
+        "description": "Transferir"
+      },
+      {
+        "id": 4,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/account.svg",
+        "description": "Conta Corrente"
+      },
+      {
+        "id": 5,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/cards.svg",
+        "description": "Cartões"
+      }
+    ],
+    "news": []
+  },
+  {
+    "id": 7,
+    "name": "Paulo",
+    "account": {
+      "id": 8,
+      "number": "99.191424-9",
+      "agency": "0003",
+      "balance": 1000,
+      "limit": 1000
+    },
+    "card": {
+      "id": 8,
+      "number": "xxxx xxxx xxxx 9999",
+      "limit": 10000
+    },
+    "features": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pix.svg",
+        "description": "PIX"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pay.svg",
+        "description": "Pagar"
+      },
+      {
+        "id": 3,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/transfer.svg",
+        "description": "Transferir"
+      },
+      {
+        "id": 4,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/account.svg",
+        "description": "Conta Corrente"
+      },
+      {
+        "id": 5,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/cards.svg",
+        "description": "Cartões"
+      }
+    ],
+    "news": []
+  },
+  {
+    "id": 8,
+    "name": "Kai",
+    "account": {
+      "id": 9,
+      "number": "10.191024-0",
+      "agency": "0009",
+      "balance": 1000,
+      "limit": 500
+    },
+    "card": {
+      "id": 9,
+      "number": "xxxx xxxx xxxx 1010",
+      "limit": 1000
+    },
+    "features": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pix.svg",
+        "description": "PIX"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pay.svg",
+        "description": "Pagar"
+      },
+      {
+        "id": 3,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/transfer.svg",
+        "description": "Transferir"
+      },
+      {
+        "id": 4,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/account.svg",
+        "description": "Conta Corrente"
+      },
+      {
+        "id": 5,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/cards.svg",
+        "description": "Cartões"
+      }
+    ],
+    "news": []
+  },
+  {
+    "id": 9,
+    "name": "Martim",
+    "account": {
+      "id": 10,
+      "number": "10.181024-1",
+      "agency": "0010",
+      "balance": 1000,
+      "limit": 500
+    },
+    "card": {
+      "id": 10,
+      "number": "xxxx xxxx xxxx 1111",
+      "limit": 1000
+    },
+    "features": [
+      {
+        "id": 1,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pix.svg",
+        "description": "PIX"
+      },
+      {
+        "id": 2,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/pay.svg",
+        "description": "Pagar"
+      },
+      {
+        "id": 3,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/transfer.svg",
+        "description": "Transferir"
+      },
+      {
+        "id": 4,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/account.svg",
+        "description": "Conta Corrente"
+      },
+      {
+        "id": 5,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/cards.svg",
+        "description": "Cartões"
+      }
+    ],
+    "news": []
+  }
+]
